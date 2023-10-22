@@ -33,8 +33,8 @@ int main()
 }
 ```
 ## OUTPUT:
+![61](https://github.com/A-Thiyagarajan/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118707693/59e561c6-3cf0-4f4a-8c3e-55989ed27398)
 
-![6](https://github.com/A-Thiyagarajan/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118707693/8c3a2795-2934-4957-b286-f440fb212695)
 
 ## RESULT:
 Thus the implementation of interprocess communication using pipe command is successfully executed.
