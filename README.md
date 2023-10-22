@@ -29,11 +29,14 @@ int main()
   else
 {
    close(fd[1]);
-    read(fd[0],a,5); printf("The string received from pipe is : %s",a);
+   read(fd[0],a,5);
+   printf("The string received from pipe is : %s",a);
 }
 }
 ```
 ## OUTPUT:
-![output](./images/ipc.png)
+
+![6](https://github.com/A-Thiyagarajan/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118707693/8c3a2795-2934-4957-b286-f440fb212695)
+
 ## RESULT:
 Thus the implementation of interprocess communication using pipe command is successfully executed.
